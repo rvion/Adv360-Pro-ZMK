@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"15"
+		],
+		"description": "15",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
